@@ -15,7 +15,7 @@
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="index.html">SAYED'S WORLD</a>
+    <a class="navbar-brand" href="index.php">SAYED'S WORLD</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -23,15 +23,15 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item">
-                <a class="nav-link" href="index.html">Home</a>
+                <a class="nav-link" href="index.php">Home</a>
             </li>
         </ul>
         <ul class="navbar-nav">
             <li class="nav-item">
-                <a class="nav-link active" href="about.html">About</a>
+                <a class="nav-link active" href="about.php">About</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact</a>
+                <a class="nav-link" href="contact.php">Contact</a>
             </li>
         </ul>
     </div>
@@ -53,6 +53,8 @@
         <span class="text-muted">&copy; sayed.me All rights reserved.</span>
     </div>
 </footer>
+
+<script src="js/jquery/jquery-3.x-git.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 </body>
 </html>

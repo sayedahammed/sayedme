@@ -15,7 +15,7 @@
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="index.html">SAYED'S WORLD</a>
+    <a class="navbar-brand" href="index.php">SAYED'S WORLD</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -23,20 +23,19 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item">
-                <a class="nav-link active" href="index.html">Home</a>
+                <a class="nav-link active" href="index.php">Home</a>
             </li>
         </ul>
         <ul class="navbar-nav">
             <li class="nav-item">
-                <a class="nav-link" href="about.html">About</a>
+                <a class="nav-link" href="about.php">About</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact</a>
+                <a class="nav-link" href="contact.php">Contact</a>
             </li>
         </ul>
     </div>
 </nav>
-
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-4 left-side">
@@ -51,7 +50,7 @@
             </div>
         </div>
         <div class="col-md-8">
-            <div class="mt-md-5">
+            <div class="mt-md-5 mb-5 mb-md-0">
                 <h1 class="display-4">Hello, world!</h1>
                 <p class="lead">I am Sayed Ahammed. A passionate software developer.</p>
                 <a class="btn btn-success" href="files/Resume-Md.Sayed%20Ahammed.pdf" role="button">Download Resume</a>
